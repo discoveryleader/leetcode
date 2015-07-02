@@ -9,7 +9,7 @@ b = "1"
 Return "100".
 
  * @author yanhong
- * @since May 24,2014
+ * @since July 2, 2015
  */
 public class AddBinary {
 	public static String addBinary(String a, String b) {
